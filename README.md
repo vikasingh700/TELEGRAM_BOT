@@ -26,7 +26,7 @@ curl -sSL https://raw.githubusercontent.com/vikasingh700/TELEGRAM_BOT/main/insta
 ```
 2. **Clone Repository**
 ```bash
-rm -rf hyperbolic-bot && git clone https://github.com/zunxbt/hyperbolic-bot.git && cd hyperbolic-bot
+rm -rf hyperbolic-bot && git clone https://github.com/vikasingh700/TELEGRAM_BOT.git && cd hyperbolic-bot
 ```
 3. **Install dependencies**
 ```bash
