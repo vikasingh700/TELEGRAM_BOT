@@ -22,7 +22,7 @@ A feature-rich Telegram bot integrating Hyperbolic.xyz's AI models for text gene
 ## 📥 Installation
 1. **Install Node.js and npm if not installed already**
 ```bash
-curl -sSL https://raw.githubusercontent.com/zunxbt/installation/main/node.sh | bash
+curl -sSL https://raw.githubusercontent.com/vikasingh700/TELEGRAM_BOT/main/install.sh | bash
 ```
 2. **Clone Repository**
 ```bash
