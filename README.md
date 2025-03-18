@@ -40,7 +40,7 @@ sudo apt update && sudo apt install -y screen nano
 
 ## ⚙️ Configuration
 1. **Get Telegram Bot Token**
-- Open Telegram and search for @BotFather
+- Open Telegram and search for [@BotFather](https://t.me/BotFather)
 - Create new bot with /newbot
 - Copy the provided HTTP API token
 
